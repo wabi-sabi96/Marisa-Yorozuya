@@ -4,3 +4,5 @@
 使用Github的想法来源于：
 
 使用 GitHub Issues 持续写作 一文 <https://io-oi.me/tech/continuous-writing-with-github-issues/>
+
+现在在 Telegram channel 里进行记录
